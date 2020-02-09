@@ -6,7 +6,7 @@ My goal is to fill more than 10 years gap in software development. The first ste
 ## Skills 
 C/C++, Delphi, HTML, GIT, Linux, Windows
 ## Experience
-My latest experience is to be an team-lead of analyst in goverment project.
+My latest experience is to be a team-lead of analyst in goverment project.
 ## Education
 Izhevsk State Technical University, Software engineer 1995-2000<br>
 Izhevsk State Technical University, PHD (equivalent) in mathematical modeling (Neural networks) 2000-2003
