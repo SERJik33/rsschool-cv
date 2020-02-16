@@ -1,0 +1,10 @@
+.cv {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.photo {
+    margin: 0 auto;
+    width: 100px;
+    border-radius: 50%;
+}
